@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.30202eba.css",
+    "main.js": "./static/js/main.3415890a.js",
+    "static/js/787.6b503308.chunk.js": "./static/js/787.6b503308.chunk.js",
+    "static/media/body-background.png": "./static/media/body-background.a59310cb04f9e034a064.png",
+    "static/media/NexaRustSlab-BlackShadow.ttf": "./static/media/NexaRustSlab-BlackShadow.d105b48d84628d4e1af0.ttf",
+    "static/media/NexaRustSlab-BlackShadow.otf": "./static/media/NexaRustSlab-BlackShadow.cc993ff31282171241b7.otf",
+    "static/media/logo.svg": "./static/media/logo.c5d826e977be68b2fd6fd4ac53c2880a.svg",
+    "static/media/about.svg": "./static/media/about.5216de8ebc947d703304db7575210ed3.svg",
+    "static/media/contact.svg": "./static/media/contact.30cd7b344f5644dddfed18d7d3221ba4.svg",
+    "static/media/dashboard.svg": "./static/media/dashboard.099f084446fbc719b8bed4ccfd3fafac.svg",
+    "static/media/about-us.svg": "./static/media/about-us.92d18f53f2f3443e3fe7d6ca63aa13d6.svg",
+    "static/media/not-found.svg": "./static/media/not-found.7cce9cc9262647edaf9849171f601261.svg",
+    "index.html": "./index.html",
+    "main.30202eba.css.map": "./static/css/main.30202eba.css.map",
+    "main.3415890a.js.map": "./static/js/main.3415890a.js.map",
+    "787.6b503308.chunk.js.map": "./static/js/787.6b503308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30202eba.css",
+    "static/js/main.3415890a.js"
+  ]
+}
